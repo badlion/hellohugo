@@ -1,7 +1,6 @@
 ---
 title: "Hello"
 date: 2020-07-28T17:09:41+08:00
-draft: true
 ---
 
 ### Hello
